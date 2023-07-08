@@ -162,7 +162,6 @@ main section {
 }
 
 .skill-title {
-  color: #181818;
   font-size: 20px;
   font-weight: 700
 }
@@ -171,4 +170,16 @@ main section {
   color: #757575;
   font-size: 16px;
   font-weight: 400;
+}
+
+/* resume related styles */
+.resume-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.resume-colum-title {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
 }
